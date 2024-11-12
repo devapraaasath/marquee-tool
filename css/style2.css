@@ -1,0 +1,17 @@
+body{
+    background-image: url('../images/2706a0e7-ef6d-4d69-9861-9bce383d9fe1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+.dialogue{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    margin-left: 500px;
+    margin-right: 400px;
+    margin-top: 400px;
+    margin-bottom: 600px;
+}
